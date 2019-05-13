@@ -8,7 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
+<<<<<<< HEAD
     <title>wei</title>
+=======
+    <title>222</title>
+>>>>>>> qiancaijiao/dev
 </head>
 <body>
 
