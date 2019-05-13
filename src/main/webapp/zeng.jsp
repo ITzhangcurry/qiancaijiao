@@ -8,11 +8,15 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <title>wei</title>
 =======
     <title>222</title>
 >>>>>>> qiancaijiao/dev
+=======
+    <title>22222</title>
+>>>>>>> Stashed changes
 </head>
 <body>
 
