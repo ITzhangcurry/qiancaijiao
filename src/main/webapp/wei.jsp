@@ -11,6 +11,3 @@
     <title>gitaa</title>
 </head>
 <body>
-
-</body>
-</html>
