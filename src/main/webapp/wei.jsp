@@ -8,10 +8,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-<<<<<<< HEAD
-    <title>zhang</title>
-=======
-    <title>zhangweizeng/dev</title>
->>>>>>> zhangweizeng/dev
+
+    <title>zhang1</title>
+
 </head>
 <body>
