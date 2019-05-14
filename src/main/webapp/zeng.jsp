@@ -1,18 +1,18 @@
 <%--
   Created by IntelliJ IDEA.
   User: curry
-  Date: 2019/5/9
-  Time: 23:28
+  Date: 2019/5/13
+  Time: 21:50
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-
-    <title>啊娇</title>
-
-    <title>钱彩娇</title>
-
+<<<<<<< HEAD
+    <title>wei</title>
+=======
+    <title>222</title>
+>>>>>>> qiancaijiao/dev
 </head>
 <body>
 
